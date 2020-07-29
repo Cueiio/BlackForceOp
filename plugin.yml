@@ -1,0 +1,7 @@
+name: BlackForce
+author: Black
+main: black.force.Black
+
+version: 1.0
+commands:
+   force:
